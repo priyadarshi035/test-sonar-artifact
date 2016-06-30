@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <servers>
     <server>
-      <username>priyadarshipeter@in.ibm.com</username>
+      <username>admin</username>
       <id>central</id>
     </server>
     <server>
-      <username>priyadarshipeter@in.ibm.com</username>
+      <username>admin</username>
       <id>snapshots</id>
     </server>
   </servers>
